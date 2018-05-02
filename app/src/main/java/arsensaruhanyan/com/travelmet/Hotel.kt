@@ -1,0 +1,3 @@
+package arsensaruhanyan.com.travelmet
+
+data class Hotel(val city: String, val title: String, val address: String, val price: String, val photoId: String, val maxAdults: Int, val maxChildren: Int, val maxInfants: Int, val daysBusy: String, val description: String, val washingMachine: Boolean, val dryingMachine: Boolean, val wifi: Boolean, val tv: Boolean, val pet: Boolean, val workplace: Boolean, val foodEnabled: Boolean, val kitchen: Boolean)

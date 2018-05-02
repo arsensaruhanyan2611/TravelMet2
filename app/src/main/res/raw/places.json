@@ -1,0 +1,156 @@
+[
+  {
+    "title": "Type 1",
+    "price": "20",
+    "city": "New York",
+    "type": 1,
+    "timeAmount": "3"
+  },
+  {
+    "title": "Type 2",
+    "price": "20",
+    "city": "New York",
+    "type": 2,
+    "timeAmount": "3"
+  },
+  {
+    "title": "Type 3",
+    "price": "20",
+    "city": "New York",
+    "type": 3,
+    "timeAmount": "3"
+  },
+  {
+    "title": "Type 4",
+    "price": "20",
+    "city": "New York",
+    "type": 4,
+    "timeAmount": "3"
+  },
+  {
+    "title": "Type 5",
+    "price": "20",
+    "city": "New York",
+    "type": 5,
+    "timeAmount": "3"
+  },
+  {
+    "title": "Type 6",
+    "price": "20",
+    "city": "New York",
+    "type": 6,
+    "timeAmount": "3"
+  },
+  {
+    "title": "Type 7",
+    "price": "20",
+    "city": "New York",
+    "type": 7,
+    "timeAmount": "3"
+  },
+  {
+    "title": "Type 8",
+    "price": "20",
+    "city": "New York",
+    "type": 8,
+    "timeAmount": "3"
+  },
+  {
+    "title": "Type 9",
+    "price": "20",
+    "city": "New York",
+    "type": 9,
+    "timeAmount": "3"
+  },
+  {
+    "title": "Type 10",
+    "price": "20",
+    "city": "New York",
+    "type": 10,
+    "timeAmount": "3"
+  },
+  {
+    "title": "Type 11",
+    "price": "20",
+    "city": "New York",
+    "type": 11,
+    "timeAmount": "3"
+  },
+  {
+    "title": "Type 1",
+    "price": "20",
+    "city": "Los Angeles",
+    "type": 1,
+    "timeAmount": "3"
+  },
+  {
+    "title": "Type 2",
+    "price": "20",
+    "city": "Los Angeles",
+    "type": 2,
+    "timeAmount": "3"
+  },
+  {
+    "title": "Type 3",
+    "price": "20",
+    "city": "Los Angeles",
+    "type": 3,
+    "timeAmount": "3"
+  },
+  {
+    "title": "Type 4",
+    "price": "20",
+    "city": "Los Angeles",
+    "type": 4,
+    "timeAmount": "3"
+  },
+  {
+    "title": "Type 5",
+    "price": "20",
+    "city": "Los Angeles",
+    "type": 5,
+    "timeAmount": "3"
+  },
+  {
+    "title": "Type 6",
+    "price": "20",
+    "city": "Los Angeles",
+    "type": 6,
+    "timeAmount": "3"
+  },
+  {
+    "title": "Type 7",
+    "price": "20",
+    "city": "Los Angeles",
+    "type": 7,
+    "timeAmount": "3"
+  },
+  {
+    "title": "Type 8",
+    "price": "20",
+    "city": "Los Angeles",
+    "type": 8,
+    "timeAmount": "3"
+  },
+  {
+    "title": "Type 9",
+    "price": "20",
+    "city": "Los Angeles",
+    "type": 9,
+    "timeAmount": "3"
+  },
+  {
+    "title": "Type 10",
+    "price": "20",
+    "city": "Los Angeles",
+    "type": 10,
+    "timeAmount": "3"
+  },
+  {
+    "title": "Type 11",
+    "price": "20",
+    "city": "Los Angeles",
+    "type": 11,
+    "timeAmount": "3"
+  }
+]
